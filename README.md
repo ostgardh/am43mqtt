@@ -14,4 +14,6 @@ cover:
     position_topic: "homeblind/Blinds1/position"
     set_position_topic: "homeblind/Blinds1/set_position"
     position_open: 0
-    position_closed: 100```
+    position_closed: 100
+```    
+    
